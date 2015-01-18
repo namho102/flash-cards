@@ -1,0 +1,7 @@
+<div class="btn-group">
+    <span ng-repeat="letter in list">
+        <a href="#/{{letter}}" class="btn btn-default" ng-class="{active: isActive(letter)}" ng-click="activeLetter(letter)">{{letter}}</a>
+    </span>
+
+</div>
+<p>{{selectedLetter}}</p>

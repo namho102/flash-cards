@@ -1,0 +1,31 @@
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#/">TOEFL Flashcards</a>
+        </div>
+        <form class="navbar-form navbar-right" role="search">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search" ng-model="term">
+            </div>
+            <!--<button type="submit" class="btn btn-default">Submit</button>-->
+        </form>
+    </div>
+</nav>
+        <div class="list">
+            <letter-list></letter-list>
+        </div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-3" ng-repeat="card in cards | filter:term | orderBy:'term' ">
+            <div class="card">
+                <p class="term">{{card.term}}</p>
+                <p class="part">{{card.part}}</p>
+                <!--<p class="def">{{card.definition}}</p>-->
+                <p class="def">{{ shorten(card.definition) }}</p>
+            </div>
+
+        </div>
+    </div>
+</div>
+

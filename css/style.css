@@ -1,0 +1,58 @@
+body {
+    background-color: #f1595a;
+    /*background-color: #4183D7;*/
+    font-size: 19px;
+    color: rgba(0, 0, 0, 0.6);
+    /*font-weight: 300;*/
+    /*height: 100%;*/
+}
+
+.demo {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.demo h1 {
+    text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.6);
+    text-transform: uppercase;
+    font-family: 'Oswald', 'sans-serif';
+    letter-spacing: 10px;
+    margin-bottom: 15px;
+    color: #efefef;
+    font-weight: 300;
+    font-size: 4.1em;
+}
+.demo a {
+    margin: 10px 0;
+}
+
+.list {
+    text-align: center;
+}
+
+.card {
+    margin: 20px 6px;
+    padding: 15px;
+    height: 250px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.card:hover {
+    box-shadow: 8px 8px 0 rgba(0, 0, 0, 0.4);
+}
+
+.card p {
+    margin: 0;
+}
+
+.card p.term {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.card p.def {
+    font-size: 16px;
+    max-height: 145px;
+    /*white-space: nowrap;*/
+    text-overflow: ellipsis;
+}

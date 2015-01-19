@@ -1,44 +1,42 @@
 [
   {
-    "term": "BACCHUS",
-    "part": "n.",
-    "definition": "A convenient deity invented by the ancients as an excuse for getting drunk.",
-    "quote": [
-      "Is public worship, then, a sin,",
-      "That for devotions paid to Bacchus",
-      "The lictors dare to run us in,",
-      "And resolutely thump and whack us?"
-    ],
-    "author": "Jorace"
+    "term": "basement",
+    "part": "n",
+    "definition": "a part of a building consisting of rooms that are partly or completely below the level of the ground"
   },
   {
-    "term": "BACKBITE",
-    "part": "v.t.",
-    "definition": "To speak of a man as you find him when he can't find you."
+    "term": "beforehand",
+    "part": "adv",
+    "definition": "earlier (than a particular time)"
   },
   {
-    "term": "BEARD",
-    "part": "n.",
-    "definition": "The hair that is commonly cut off by those who justly execrate the absurd Chinese custom of shaving the head."
+    "term": "belongings",
+    "part": "n",
+    "definition": "the things that a person owns, especially those that can be carried"
   },
   {
-    "term": "BEGGAR",
-    "part": "n.",
-    "definition": "One who has relied on the assistance of his friends."
+    "term": "blaze",
+    "part": "v",
+    "definition": "to burn brightly and strongly"
   },
   {
-    "term": "BELLADONNA",
-    "part": "n.",
-    "definition": "In Italian a beautiful lady; in English a deadly poison.  A striking example of the essential identity of the two tongues."
+    "term": "branch",
+    "part": "n",
+    "definition": "a part of something larger; one of the offices or groups that form part of a large business organization"
   },
   {
-    "term": "BIGAMY",
-    "part": "n.",
-    "definition": "A mistake in taste for which the wisdom of the future will adjudge a punishment called trigamy."
+    "term": "bribe",
+    "part": "v",
+    "definition": "to try to make someone do something for you by giving them money, presents, or something else that they want"
   },
   {
-    "term": "BORE",
-    "part": "n.",
-    "definition": "A person who talks when you wish him to listen."
+    "term": "bruise",
+    "part": "n",
+    "definition": "an injury or mark where the skin has not been broken but is darker in colour, often as a result of being hit by something"
+  },
+  {
+    "term": "brutal",
+    "part": "adj",
+    "definition": "cruel, violent, and completely without feelings"
   }
 ]

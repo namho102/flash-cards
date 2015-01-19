@@ -1,12 +1,38 @@
 [
   {
-    "term": "",
-    "part": "",
-    "definition": ""
+    "term": "fascinate",
+    "part": "v",
+    "definition": "to interest someone a lot"
   },
   {
-    "term": "",
-    "part": "",
-    "definition": ""
+    "term": "favourable",
+    "part": "adj",
+    "definition": "giving you an advantage or more chance of success; showing that you like or approve of someone or something"
+  },
+  {
+
+    "term": "famine",
+    "part": "n",
+    "definition": "a situation in which there is not enough food for a great number of people, causing illness and death, or a particular period when this happens"
+  },
+  {
+    "term": "fortify",
+    "part": "v",
+    "definition": "to make something stronger, especially in order to protect it"
+  },
+  {
+    "term": "folklore",
+    "part": "n",
+    "definition": "the traditional stories and culture of a group of people"
+  },
+  {
+    "term": "fluctuate",
+    "part": "v",
+    "definition": "to change, especially continuously and between one level or thing and another"
+  },
+  {
+    "term": "felicity",
+    "part": "n",
+    "definition": "happiness, luck, or a condition that produces positive results"
   }
 ]
